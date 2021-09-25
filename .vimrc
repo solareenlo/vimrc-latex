@@ -250,3 +250,12 @@ noremap <leader>x :bn<CR>
 noremap <leader>w :bn<CR>
 "" Close buffer
 noremap <leader>c :bd<CR>
+
+
+"----------------------------------------------------------
+" Window
+"----------------------------------------------------------
+noremap <leader>h <C-w>h
+noremap <leader>l <C-w>l
+noremap <leader>j <C-w>j
+noremap <leader>k <C-w>k
